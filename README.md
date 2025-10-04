@@ -33,13 +33,13 @@ _Reproducible builds for Android apps to verify trust and transparency._
 - Developed both backend (Python, GitHub Actions) and frontend (React/Next.js).  
 - Enables everyone, regarless of their tech literacy, to independently verify Android app integrity.
 - Especially interesting for journalists and NGOs using private messaging apps in countries with censored app stores. <br>
-[Frontend Demo](https://watchdog-coral.vercel.app/) • [Backend Repo](https://github.com/valentine14th/rbtlog)
+[Backend Repo](https://github.com/valentine14th/rbtlog) • [Demo](https://watchdog-coral.vercel.app/)
 
-**🎨 PinkPixels — Media Literacy Webapp (HerHack Winner)**  
+**🎨 PinkPixels — Media Literacy Webapp (Hackathon Finalist)**  
 _An escape-room style web game teaching children how to spot fake news._  
 - Built with React and CSS
 - Selected by the Swiss Broadcasting Corporation as finalist of the #herHack hackathon (SRG).  
-[Repo](https://valentine14th.github.io/PinkPixels/)
+  [Repo](https://github.com/Valentine14th/PinkPixels) • [Demo](https://valentine14th.github.io/PinkPixels/) _(Best on 14', reponsiveness to improve)_
 
 **🧩 Mermaid.js — Open Source Contributions**  
 _Enhancing a popular diagramming tool used by developers worldwide._  
